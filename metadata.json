@@ -1,0 +1,6 @@
+{
+  "name": "Tejas Plasto",
+  "description": "Premium manufacturing website for Tejas Plasto - Strong, Safe, and Reliable Water Storage Solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
